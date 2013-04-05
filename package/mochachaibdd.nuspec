@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MochaChaiBdd</id>
+    <version>1.0.0</version>
+    <authors>Kazi Manzur Rashid</authors>
+    <owners>Kazi Manzur Rashid</owners>
+    <projectUrl>https://github.com/kazimanzurrashid/ASPNETMVCMochaChaiBddPack</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides the initial skeleton to write specs/tests for client side scripts in ASP.NET MVC Application.</description>
+    <tags>mocha chai bdd tdd test spec javascript</tags>
+  </metadata>
+</package>
