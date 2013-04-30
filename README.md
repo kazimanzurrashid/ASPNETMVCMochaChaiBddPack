@@ -1,8 +1,8 @@
 # Mocha + Chai BDD Pack for ASP.NET MVC
 
-Provides the initial skeleton to write specs/tests for client side scripts in ASP.NET MVC Application.
+Provides the initial skeleton to write specs/tests for client side scripts of ASP.NET MVC Application.
 
-It includes the following files in an ASP.NET MVC Application:
+It includes the following files in your ASP.NET MVC project:
 
     |-YourProject
        |-Content
@@ -12,9 +12,15 @@ It includes the following files in an ASP.NET MVC Application:
        |-Scripts
        |---specs
        |-----bdd
+       |-------chai-jquery.js
        |-------chai.js
+       |-------fixtures.js
        |-------mocha.js
+       |-------sinon-chai.js
+       |-------sinon.js
        |-----calculator.js
+       |-----fixtures
+       |-------readme.txt
        |-Views
        |---Mocha
        |-----Index.cshtml
@@ -23,3 +29,4 @@ It includes the following files in an ASP.NET MVC Application:
 ## Resources
 - [Mocha](http://visionmedia.github.com/mocha/)
 - [Chai](http://chaijs.com/)
+- [Sinon](http://sinonjs.org/)
