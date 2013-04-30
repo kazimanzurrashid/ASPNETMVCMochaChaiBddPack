@@ -1,4 +1,4 @@
-# Mocha + Chai BDD Pack for ASP.NET MVC
+# Mocha + Chai + Sinon BDD Pack for ASP.NET MVC
 
 Provides the initial skeleton to write specs/tests for client side scripts of ASP.NET MVC Application.
 
