@@ -27,6 +27,6 @@ It includes the following files in your ASP.NET MVC project:
 
 
 ## Resources
-- [Mocha](http://visionmedia.github.com/mocha/)
+- [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com/)
 - [Sinon](http://sinonjs.org/)
